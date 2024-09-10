@@ -14,6 +14,10 @@ This is a simple responsive website project focused on building a layout that wo
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your browser to view the website.
 
+## Project URL
+
+You can view the project repository here: [Project URL](https://github.com/yourusername/responsive-website)
+
 ## Mockups
 
 The design follows the basic mockups for mobile and desktop devices. The layout adjusts based on screen size.
@@ -21,3 +25,4 @@ The design follows the basic mockups for mobile and desktop devices. The layout 
 ## License
 
 This project is free to use under the MIT license.
+
