@@ -16,7 +16,7 @@ This is a simple responsive website project focused on building a layout that wo
 
 ## Project URL
 
-You can view the project repository here: [Project URL](https://github.com/yourusername/responsive-website)
+You can view the project repository here: https://github.com/neerajvermaaa/personal-portfolio(https://github.com/yourusername/responsive-website)
 
 ## Mockups
 
