@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Responsive Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Welcome to Our Website</h1>
+            <p>This is a simple responsive website project.</p>
+        </section>
+
+        <section class="features">
+            <div class="feature-box">
+                <h2>Feature 1</h2>
+                <p>Description of Feature 1.</p>
+            </div>
+            <div class="feature-box">
+                <h2>Feature 2</h2>
+                <p>Description of Feature 2.</p>
+            </div>
+            <div class="feature-box">
+                <h2>Feature 3</h2>
+                <p>Description of Feature 3.</p>
+            </div>
+        </section>
+
+        <section class="testimonials">
+            <h2>What our clients say</h2>
+            <div class="testimonial">
+                <p>"This is the best service ever!" - Client 1</p>
+            </div>
+            <div class="testimonial">
+                <p>"Amazing experience!" - Client 2</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Your Website</p>
+    </footer>
+</body>
+</html>
